@@ -1,4 +1,4 @@
-## 👾 Raeonix | Game Dev & Tester
+## 👾 Jai Agrawal | Game Dev & Tester
 
 <div align="center">
 
