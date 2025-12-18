@@ -1,15 +1,15 @@
-## 👾 Hi, I'm Jai Agrawal
+## 👾 Jai Agrawal | Game Dev & Tester
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/main/images/animated-runner.gif" width="420"/>
 
 </div>
 
 🎮 Aspiring **Game Developer & Game Tester**  
-🧠 Focused on **game mechanics, player experience, and bug hunting**  
-🕹️ Loves **horror, survival, and experimental gameplay concepts**  
-🧪 Enjoys breaking games to understand how they truly work  
+🧠 Focused on **gameplay systems, player experience & bug discovery**  
+🕹️ Loves **horror, survival, and experimental mechanics**  
+🧪 Breaks games to understand how to build them better  
 
 ---
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=F700FF&center=true&vCenter=true&width=520&lines=Games+should+be+felt%2C+not+just+played;A+good+tester+breaks+before+players+do;Every+bug+is+a+lesson+in+design" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1200&color=00FFB3&center=true&vCenter=true&width=520&lines=Games+should+be+felt%2C+not+just+played;Test+like+a+player%2C+break+like+a+developer;Every+bug+is+a+hidden+lesson" />
 
 </div>
 
@@ -37,9 +37,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JaiAgrawal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=JaiAgrawal&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -49,14 +49,13 @@
 
 - 🎮 Build immersive indie games  
 - 🧪 Grow as a professional game tester  
-- 🧠 Deepen understanding of gameplay systems  
-- 🚀 Release a horror/survival game  
+- 🧠 Master gameplay mechanics & balance  
+- 🚀 Release a horror/survival title  
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F700FF,100:0A0A0A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0A0A0A&height=110&section=footer"/>
 
 </div>
-
