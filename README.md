@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/main/images/animated-runner.gif" width="420"/>
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="420"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1200&color=00FFB3&center=true&vCenter=true&width=520&lines=Games+should+be+felt%2C+not+just+played;Test+like+a+player%2C+break+like+a+developer;Every+bug+is+a+hidden+lesson" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1200&color=00FFB3&center=true&vCenter=true&width=520&lines=Games+should+be+felt%2C+not+just+played;Test+like+a+player%2C+break+like+a+developer;Every+bug+is+design+feedback" />
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JaiAgrawal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JaiAgrawal&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=JaiAgrawal&theme=tokyonight&hide_border=true" height="165"/>
 
@@ -48,8 +48,8 @@
 ## 🎯 Current Goals
 
 - 🎮 Build immersive indie games  
-- 🧪 Grow as a professional game tester  
-- 🧠 Master gameplay mechanics & balance  
+- 🧪 Become a professional game tester  
+- 🧠 Master gameplay mechanics  
 - 🚀 Release a horror/survival title  
 
 ---
