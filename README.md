@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,js,cs,python,git" />
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,cs,python,git" />
 
 </div>
 
